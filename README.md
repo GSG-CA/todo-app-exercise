@@ -1,6 +1,6 @@
 # Project
 
-## This project is from [Founders and Coders Week2 Project](https://github.com/GSG-G8/master-reference/tree/master/coursebook/week-2/project)
+#### This project is from [Founders and Coders ](https://github.com/GSG-G8/master-reference/tree/master/coursebook/week-2/project)
 
 ## Use TDD to build a To-do app
 
@@ -23,6 +23,7 @@ This project is split into three parts:
 -   create some issues and start making branches related to the issues as if you were working with a team
 -   Read through `skeleton/logic.js`. Don't worry if it does not all makes sense at first.
 -   `npm init`, then install jest and anything else you want to test with.
+-   deploy to github pages.
 
 ## The project
 
